@@ -1,0 +1,1 @@
+rm -rf boot.o kernel.o myos.bin isodir myos.iso
